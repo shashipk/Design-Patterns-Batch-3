@@ -16,7 +16,7 @@ https://www.amazon.in/Patterns-Enterprise-Application-Architecture-Addison-Wesle
 Design Patterns: Elements of Reusable Object-Oriented Software: 
 https://www.oreilly.com/library/view/design-patterns-elements/0201633612/
 
-Other Resources: 
+# Other Resources for Design Patterns: 
 
 https://refactoring.guru/design-patterns
 
