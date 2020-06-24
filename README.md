@@ -13,6 +13,9 @@ Head first design patterns : http://shop.oreilly.com/product/9780596007126.do
 Patterns of Enterprise Application Architecture : 
 https://www.amazon.in/Patterns-Enterprise-Application-Architecture-Addison-Wesley-ebook/dp/B008OHVDFM
 
+Design Patterns: Elements of Reusable Object-Oriented Software: 
+https://www.oreilly.com/library/view/design-patterns-elements/0201633612/
+
 Other Resources: 
 
 https://refactoring.guru/design-patterns
