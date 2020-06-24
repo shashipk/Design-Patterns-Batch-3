@@ -26,6 +26,14 @@ https://sourcemaking.com/design_patterns
 
 https://www.youtube.com/watch?v=OkC7HKtiZC0&list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc
 
+# Interview Preparation Related links:
+
+https://www.youtube.com/watch?v=EG3hoF_nRGc&list=PLu3bbHYzoZv2e4FQhytIGlwOK1Ch6-4Qh
+
+https://www.careercup.com/page?pid=object-oriented-design-interview-questions
+
+
+
 
 
 
