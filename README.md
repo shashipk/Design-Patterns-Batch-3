@@ -33,7 +33,11 @@ https://www.youtube.com/watch?v=EG3hoF_nRGc&list=PLu3bbHYzoZv2e4FQhytIGlwOK1Ch6-
 https://www.careercup.com/page?pid=object-oriented-design-interview-questions
 
 
+# Useful Links for SOLID
 
+https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
+
+https://blog.scottlogic.com/2018/06/26/solid-principles.html
 
 
 
