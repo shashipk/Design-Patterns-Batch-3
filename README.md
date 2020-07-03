@@ -8,6 +8,8 @@
 
 Head first object-oriented analysis and design : http://shop.oreilly.com/product/9780596008673.do
 
+Codes of this book in C++, Java and C# here: https://resources.oreilly.com/examples/9780596007126
+
 Head first design patterns : http://shop.oreilly.com/product/9780596007126.do
 
 Patterns of Enterprise Application Architecture : 
